@@ -552,7 +552,7 @@ let Seats = () => {
                 <div style={{ display: "flex" }}>
                     <div>
                         <select>
-                            <option value='Ticket Type' selected>Ticket Type</option>
+                <option value='Ticket Type' selected>Ticket Type</option>
                             <option>Balcony</option>
                             <option>Premium</option>
                             <option>Recliner</option>
