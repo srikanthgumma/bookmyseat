@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bookmyseat/static/css/main.0cfb23b0.css",
-    "main.js": "/bookmyseat/static/js/main.17e6c834.js",
+    "main.js": "/bookmyseat/static/js/main.673d5642.js",
     "static/js/787.a5039dbc.chunk.js": "/bookmyseat/static/js/787.a5039dbc.chunk.js",
     "static/media/logo.svg": "/bookmyseat/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bookmyseat/index.html",
     "main.0cfb23b0.css.map": "/bookmyseat/static/css/main.0cfb23b0.css.map",
-    "main.17e6c834.js.map": "/bookmyseat/static/js/main.17e6c834.js.map",
+    "main.673d5642.js.map": "/bookmyseat/static/js/main.673d5642.js.map",
     "787.a5039dbc.chunk.js.map": "/bookmyseat/static/js/787.a5039dbc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cfb23b0.css",
-    "static/js/main.17e6c834.js"
+    "static/js/main.673d5642.js"
   ]
 }
