@@ -553,8 +553,9 @@ let Seats = () => {
                     <div>
                         <select>
                             <option value='Ticket Type' selected>Ticket Type</option>
-                            <option>A/C</option>
-                            <option>NON A/C</option>
+                            <option>Balcony</option>
+                            <option>Premium</option>
+                            <option>Recliner</option>
                         </select>
                     </div>
                     <div>
