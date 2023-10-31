@@ -551,14 +551,16 @@ let Seats = () => {
             <div>
                 <div style={{ display: "flex" }}>
                     <div>
-                        <select defaultValue="Ticket Type">
+                        <select>
+                        <option>Ticket Type</option>
                             <option>Balcony</option>
                             <option>Premium</option>
                             <option>Recliner</option>
                         </select>
                     </div>
                     <div>
-                        <select style={{ width: '70px' }} defaultValue="City">
+                        <select style={{ width: '70px' }} >
+                        <option>City</option>
                             <option>HYD</option>
                             <option>VIZAG</option>
 
